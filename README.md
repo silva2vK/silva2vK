@@ -9,7 +9,7 @@
 ### 👨‍💻 Sobre mim
 
 - 🎓 Graduado em **História** na **Universidade Federal de Sergipe (UFS)**
-- 🔹 Desenvolvedor focado em **React**, **TypeScript** e arquiteturas **Local-First**
+- 🔹 Foco em **React**, **TypeScript** e arquiteturas **Local-First**
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silva2vK&show_icons=true&count_private=true&theme=tokyonight&title_color=00E5FF&icon_color=00E5FF&bg_color=0d1117&border_color=00E5FF" />
