@@ -1,31 +1,54 @@
-# Olá, eu sou Silva 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1500&color=00E5FF&width=450&lines=Olá,+eu+sou+Silva.;Desenvolvedor+Web+&amp;+Pesquisador.;Focado+em+Sistemas+Client-Side." alt="Typing SVG" />
+  </a>
+</div>
 
-Sou desenvolvedor web e pesquisador, unindo o rigor metodológico acadêmico à engenharia de software. Meu foco está na criação de aplicações web de alta performance, com ênfase em arquiteturas *client-side* (*local-first*) e design de interfaces (UI/UX) de alta fidelidade.
+---
 
-🎓 **Formação:** História - Universidade Federal de Sergipe (UFS)
-💻 **Foco Técnico:** Arquitetura Client-Side, Web Performance, Compatibilidade Cross-Browser e UI/UX avançada.
-🚀 **Atualmente:** Desenvolvendo e arquitetando plataformas web privadas com foco em processamento local e privacidade.
+### 👨‍💻 Sobre mim
 
-### 📊 Estatísticas e Tecnologias
+- 🎓 Graduando em **História** na **Universidade Federal de Sergipe (UFS)**
+- 🚀 Desenvolvedor focado em **React**, **TypeScript** e arquiteturas **Local-First**
+- 🛠️ Especialista em interfaces de alta fidelidade e performance web
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=silva2vK&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Estatísticas de silva2vK" width="48%" />
-  
-  <div align="center" style="display: inline-block; vertical-align: top; width: 48%; padding-top: 20px;">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  </div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silva2vK&show_icons=true&count_private=true&theme=tokyonight&title_color=00E5FF&icon_color=00E5FF&bg_color=0d1117&border_color=00E5FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silva2vK&layout=compact&langs_count=7&theme=tokyonight&title_color=00E5FF&bg_color=0d1117&border_color=00E5FF" />
 </div>
 
-### 🛠️ Arsenal Tecnológico
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right: 10px;" />
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40" height="40" alt="Cloudflare" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
 </div>
+
+---
+
+### 🌐 Contato e Redes
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://medium.com/@SEU-MEDIUM" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### 🐍 Contribuições
+
+![Snake animation](https://github.com/silva2vK/silva2vK/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/silva2vK/silva2vK/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
