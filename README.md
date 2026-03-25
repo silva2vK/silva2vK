@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🎓 Graduando em **História** na **Universidade Federal de Sergipe (UFS)**
+- 🎓 Graduado em **História** na **Universidade Federal de Sergipe (UFS)**
 - 🔹 Desenvolvedor focado em **React**, **TypeScript** e arquiteturas **Local-First**
 
 <div align="center">
