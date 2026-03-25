@@ -10,6 +10,7 @@
 
 - 🎓 Graduado em **História** na **Universidade Federal de Sergipe (UFS)**
 - 🔹 Foco em **React**, **TypeScript** e arquiteturas **Local-First**
+- 💻 Utilização de IAs na criação de sites SPA com serviços que visam contribuir para a melhoria da educação. Atualmente tenho um workspace em estágio avançado e um protótipo de sistema escolar de produção de conteúdo. Por enquanto ainda não disponíveis ao público.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silva2vK&show_icons=true&count_private=true&theme=tokyonight&title_color=00E5FF&icon_color=00E5FF&bg_color=0d1117&border_color=00E5FF" />
